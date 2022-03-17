@@ -1,4 +1,9 @@
-﻿using System;
+﻿/* 
+Nama : Rachmad Fajar Ramadhan
+Nim: 21.11.4418
+Kelas:21 IF 09
+*/
+using System;
 
 namespace BasicCalculator
 {
@@ -91,8 +96,6 @@ namespace BasicCalculator
                     Console.WriteLine("Press any key to return to menu.");
                     Console.ReadKey();
                     goto menu;
-
-
 
                 default:
                     Console.Clear();
